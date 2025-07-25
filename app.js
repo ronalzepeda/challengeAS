@@ -13,6 +13,6 @@ function agregarAmigo() {
         document.getElementById('amigo').value = ''; 
         console.log(amigos);
     } else {
-        console.log("Por favor inserta un nombre");
+        alert("Por favor inserta un nombre");
     }
 }

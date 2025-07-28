@@ -11,8 +11,14 @@ function agregarAmigo() {
     if (amigo) {
         amigos.push(amigo);
         document.getElementById('amigo').value = ''; 
-        console.log(amigos);
     } else {
         alert("Por favor inserta un nombre");
     }
+    console.log(amigos);
+    asignaTxtElement('listaAmigos', amigos.join(', '));
+}
+
+asignaTxtElement = (id, txt) => {
+    let elementHTML = document.getElementById(id).innerText = txt;
+    return elementHTML;
 }

@@ -1,1 +1,2 @@
-![imagen de amigo secreto](assets/AS.jpg)
+<img src="assets/AS.jpg" width="50%" height="50%">
+

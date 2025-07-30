@@ -23,6 +23,6 @@ Carcar carpeta del proyecto.
 
 ## 🤝 Conectemos y Aprendamos Juntos
 
-Nunca hay que menospreciar la importancia del intercambio de conocimientos, por lo que si tienes dudas o buscas alguna perspectiva particular o incluso debatir código puedes encontrarme en:
+Nunca hay que menospreciar la importancia del intercambio de conocimientos, por lo que si tienes dudas, buscas alguna perspectiva particular o incluso debatir código puedes encontrarme en:
 *GitHub*: [@ronalzepeda](https://github.com/ronalzepeda) 
 

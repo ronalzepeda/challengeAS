@@ -11,12 +11,14 @@ Forma de operación:
 3. Una vez que tengas toda la lista completa, presiona "Sortear Amigo".
 4. La página entregará el amigo asignado aleatoriamente y acabará el sorteo.
 
-
-Requerimientos:
-Navegador compatible (Chrome/IE/Brave/Firefox).
-
 Observaciones:
 **Al presionar "Sortear amigo" o "Adicionar", sin tener ningún amigo ingresado previamente, se despliega una alerta que indica que debes tener agregado al menos uno.**
+
+
+Requerimientos:
+Navegador compatible (Chrome/Edge/Brave/Firefox).
+Editor de texto (Visual Studio Code)
+Carcar carpeta del proyecto.
 
 
 ## 🤝 Conectemos y Aprendamos Juntos

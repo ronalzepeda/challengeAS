@@ -18,7 +18,7 @@ Observaciones:
 Requerimientos:
 Navegador compatible (Chrome/Edge/Brave/Firefox).
 Editor de texto (Visual Studio Code)
-Carcar carpeta del proyecto.
+Descargar carpeta del proyecto.
 
 
 ## 🤝 Conectemos y Aprendamos Juntos
